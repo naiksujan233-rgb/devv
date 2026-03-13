@@ -1,2 +1,7 @@
 hello love b
+<<<<<<< HEAD
 hii
+=======
+hello srajan
+>>>>>>> a1
+hi s
